@@ -1,5 +1,5 @@
 ---
-sl-SI: 
+sl:
   no: "Ne"
   yes: "Da"
   a_copy_of_all_mail_will_be_sent_to_the_following_addresses: "Kopija vseh izhodnih emailov naj se pošlje na seledeče naslove"
@@ -15,7 +15,7 @@ sl-SI:
     listing: Prikazujem
     new: Dodaj
     update: Spremeni
-    cancel: Prekini
+    cancel: Prekliči
   active: "Objavljeno"
   activate: "Aktiviraj"
   activerecord: 
